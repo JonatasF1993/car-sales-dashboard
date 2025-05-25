@@ -10,7 +10,7 @@ Este é um aplicativo web criado com Streamlit que permite visualizar dados de a
 
 ## Acesse online
 
-➡️ [Link do app no Render](https://seuapp.onrender.com) (adicione após publicação)
+➡️ Link do app https://car-sales-dashboard-ug8i.onrender.com
 
 ## Como rodar localmente
 
